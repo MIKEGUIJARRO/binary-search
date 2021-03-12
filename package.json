@@ -1,0 +1,16 @@
+{
+  "name": "actividad2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js t6.txt"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-async": "^0.9.9",
+    "prompt-sync": "^4.2.0"
+  }
+}
